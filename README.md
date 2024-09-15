@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayomide Victor</h1>
-<h3 align="center">I am a passionate Frontend Developer and Software Engineer from Lagos, Nigeria</h3>
+<h3 align="center">I am a passionate Frontend Developer and Network Engineer from Lagos, Nigeria</h3>
 
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on <b>Food Delivery Project</b></p>
-      <p>- 🌱 I’m currently learning <b> Python</b></p>
+      <p>- 🔭 I’m currently working on <b>IntellibinProject</b></p>
+      <p>- 🌱 I’m currently learning <b>Flutter</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:midevictor90@gmail.com alt=email>midevictor90@gmail.com</a></b></p>
       <p>- ⚡ Fun fact: <b>I completed the ALX Software Engineering Programme (cohort 5)</b></p>
