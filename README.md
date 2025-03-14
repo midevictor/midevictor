@@ -5,7 +5,7 @@
   <tr>
     <td>
       <p>- 🔭 I’m currently working on <b>IntellibinProject</b></p>
-      <p>- 🌱 I’m currently learning <b>Flutter</b></p>
+      <p>- 🌱 I’m currently learning <b>Java</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:midevictor90@gmail.com alt=email>midevictor90@gmail.com</a></b></p>
       <p>- ⚡ Fun fact: <b>I completed the ALX Software Engineering Programme (cohort 5)</b></p>
