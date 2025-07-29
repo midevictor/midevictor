@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>
-      <p>- 🔭 I’m currently working on <b>Ecommerce spring application</b>s ide project</p>
+      <p>- 🔭 I’m currently working on an <b>Ecommerce spring application</b></p>
       <p>- 🌱 I’m currently learning <b>spring boot</b></p>
       <p>- 💬 Ask me about <b>Anything in my stack</b></p>
       <p>- 📫 How to reach me: <b><a href=mailto:midevictor90@gmail.com alt=email>midevictor90@gmail.com</a></b></p>
